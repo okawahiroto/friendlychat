@@ -8,6 +8,14 @@
  */
 const config = {
   /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  apiKey: "AIzaSyDF7kLcoSPiEf0pFG9coJH1cD88aXKT6Ss",
+  authDomain: "friendlychat20220405.firebaseapp.com",
+  projectId: "friendlychat20220405",
+  storageBucket: "friendlychat20220405.appspot.com",
+  messagingSenderId: "426968828600",
+  appId: "1:426968828600:web:9520240d39e4bdbc4a424d",
+  measurementId: "G-JF915B8V4S"
 };
 
 export function getFirebaseConfig() {
