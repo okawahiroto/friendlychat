@@ -11,6 +11,7 @@ const config = {
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   apiKey: "AIzaSyDF7kLcoSPiEf0pFG9coJH1cD88aXKT6Ss",
   authDomain: "friendlychat20220405.firebaseapp.com",
+  databaseURL: "https://friendlychat20220405-default-rtdb.firebaseio.com",
   projectId: "friendlychat20220405",
   storageBucket: "friendlychat20220405.appspot.com",
   messagingSenderId: "426968828600",
