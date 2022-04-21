@@ -1,4 +1,7 @@
 # friendlychat
+[Firebase](https://firebase.google.com/)
+
+[FirebaseWebコードラボ](https://firebase.google.com/codelabs/firebase-web?authuser=0#0)
 
 20220406 3.Firebaseプロジェクトを作成して設定する まで完了
 
